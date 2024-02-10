@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spaceboi_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spaceboi_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abbas" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad abbas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-abbas-636150271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abbas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammad.abbas.10441861/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad abbas" height="30" width="40" /></a>
 <a href="https://instagram.com/spaceboi_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spaceboi_21" height="30" width="40" /></a>
 </p>
 
